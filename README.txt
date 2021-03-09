@@ -1,0 +1,1 @@
+Experimental implemetation of the Snake game (I called it NetWorm for some reason) using Cellular Automata in C++.
